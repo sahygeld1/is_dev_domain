@@ -1,0 +1,15 @@
+{
+    "description": "Domain for myself",
+    "domain": "is-a.dev",
+    "subdomain": "domainer",
+    "owner": {
+        "username": "sahygeld1",
+        "email": "guvanchmyradovsahy@gmail.com"
+    },
+    "record": {
+        "NS": [
+            "jakub.ns.cloudflare.com",
+            "laila.ns.cloudflare.com"
+        ]
+    }
+}
